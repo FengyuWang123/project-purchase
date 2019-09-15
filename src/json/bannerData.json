@@ -1,0 +1,7 @@
+{
+    "list":[
+        {"url":"www.apple.com.cn", "img":"./src/images/奥迪.jpg"},
+        {"url":"www.apple.com.cn", "img":"./src/images/宝马.jpg"},
+        {"url":"www.apple.com.cn", "img":"./src/images/奔驰.jpg"}
+    ]
+}
